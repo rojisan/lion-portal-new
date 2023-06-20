@@ -1,0 +1,2 @@
+"No.","ID","Name","Date","Remark","Clock 1","Clock 2","Clock 3","Clock 4","Clock 5","Clock 6"
+"NaN","1009","VERI LEONARDUS HENDRA","6/6/2023 07:00","","","","","","",""
